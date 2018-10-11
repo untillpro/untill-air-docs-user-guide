@@ -1,0 +1,7 @@
+## Standardization
+
+Markdown has been characterised by an informal specification[17] and a reference implementation for conversion to HTML. Over time, many Markdown implementations have appeared. People developed these mostly driven by the need for additional features on top of the base syntax—such as tables, footnotes, definition lists, and Markdown inside HTML blocks. The behavior of some of these diverges from the reference implementation. At the same time, a number of ambiguities in the informal specification have attracted attention[18]. These issues spurred an effort by some developers of Markdown parsers for standardisation.
+
+Babelmark[19] are tools available to "[compare] the output of various implementations" to "promote discussion of how and whether certain vague aspects of the markdown spec should be clarified."[20] Gruber has argued that complete standardization would be mistaken: "Different sites (and people) have different needs. No one syntax would make all happy."[21]
+
+In March 2016 RFC 7763 and RFC 7764 were published. RFC 7763 introduced MIME type text/markdown with the original variant. RFC 7764 discusses and registered the variants MultiMarkdown, GitHub Flavored Markdown (GFM), Pandoc, CommonMark, and Markdown Extra among others.[22] 

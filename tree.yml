@@ -1,0 +1,7 @@
+pages:
+  - name: 'Document #1'
+    uri: 'doc1.md'
+  - name: 'Document #2'
+    uri: 'doc2.md'
+  - name: 'Document #3'
+    uri: 'doc3.md'
